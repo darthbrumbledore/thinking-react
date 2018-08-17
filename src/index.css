@@ -1,0 +1,10 @@
+body {
+  margin: 10;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.content {
+  width: 400px;
+  margin: 0 auto;
+}
